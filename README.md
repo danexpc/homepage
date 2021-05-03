@@ -11,3 +11,5 @@ My very own personal website. Basically this is just a résumé.
 # Links 🔗
 - [GitHub Pages](https://danexpc.github.io/homepage/)
 - [Vercel](https://homepage-one-kappa.vercel.app/)
+
+🧙Hocus-pocus!
